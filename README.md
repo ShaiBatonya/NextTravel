@@ -1,23 +1,21 @@
-
-
 <div align="center">
-<h2 align="center">Travel Website</h2>
+<h2 align="center">NextTravel</h2>
 
 <br />
 
   Fully responsive personal Travel website, <br />Responsive for all devices, built using NextJS, Tailwind CSS, and TypeScript.
 
-  <a href="https://travel-ui-ux-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://nexttravel.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 <div align="center">
   <br />
-      <img src="https://github.com/user-attachments/assets/31860509-fad8-4dd6-93ea-6081bd1e20dd" , alt="Project Banner">
+      <img src="https://github.com/ShaiBatonya/NextTravel/assets/demo-screenshot.png" , alt="Project Banner">
   <br />
   <br />
   <br />
@@ -40,9 +38,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-
 This project is a modern landing page built using **Next.js**, **TailwindCSS**, and **TypeScript**. It showcases a clean, responsive design while leveraging the power of these technologies to create a fast, scalable, and user-friendly website. 
-
 
 
 <br/>
@@ -87,13 +83,13 @@ Before starting, make sure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/psparwez/travel-ui-ux.git
+    git clone https://github.com/ShaiBatonya/NextTravel.git
     ```
 
 2. **Navigate to the project folder:**
 
     ```bash
-    cd travel-website
+    cd nexttravel
     ```
 
 3. **Install the project dependencies using npm:**
@@ -117,13 +113,13 @@ npm run dev
 If you have any questions, encounter issues, or would like to collaborate on this project, feel free to reach out!
 
 
-[![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/psparwez/psparwez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shai.batonya@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shai-batonya/)
 
 
 ### Reporting Issues
 
-If you encounter any bugs or have suggestions, please open an issue on the [GitHub Issues page](https://github.com/psparwez/travel-ui-ux/issues).
+If you encounter any bugs or have suggestions, please open an issue on the [GitHub Issues page](https://github.com/ShaiBatonya/NextTravel/issues).
 
 I look forward to hearing from you and collaborating!
 <br />
@@ -133,3 +129,4 @@ I look forward to hearing from you and collaborating!
 [MIT](https://choosealicense.com/licenses/mit/)
 
 <br/>
+
