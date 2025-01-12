@@ -9,11 +9,6 @@
     🚀 <strong>Live Demo:</strong> <a href="https://next-travel-olive.vercel.app/" target="_blank">NextTravel Website</a>
   </p>
   <br/>
-### 📸 Home Page
-![Homepage Screenshot](https://github.com/ShaiBatonya/NextTravel/assets/homepage-screenshot.png)
-
-### 📸 Responsive View
-![Responsive View Screenshot](https://github.com/ShaiBatonya/NextTravel/assets/responsive-screenshot.png)
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
@@ -126,7 +121,4 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ---
 
-<div align="center">
-  <strong>Crafted with ❤️ by Shai Batonya</strong>
-</div>
 
