@@ -5,8 +5,7 @@
 
   Fully responsive personal Travel website, <br />Responsive for all devices, built using NextJS, Tailwind CSS, and TypeScript.
 
-  <a href="https://nexttravel.vercel.app/"><strong>➥ Live Demo</strong></a>
-
+🌐 **Live Demo**: [NextTravel Website](https://next-travel-olive.vercel.app/)  
 </div>
 
 <br />
